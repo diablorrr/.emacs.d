@@ -1,0 +1,6 @@
+
+下面这个是org-tempo中的，可以找相关内容学习
+#+begin_src emacs-lisp
+  (setq awesome-tab-height 100)
+#+end_src
+

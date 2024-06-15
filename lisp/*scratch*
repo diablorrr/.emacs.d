@@ -1,0 +1,5 @@
+(defun repeat-constantly ()
+  (interactive)
+  (while (not (input-pending-p))
+    (repeat nil)
+    (sit-for 0.1)))
